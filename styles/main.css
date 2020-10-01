@@ -1,0 +1,30 @@
+body {
+    background-color: #015d82;
+}
+
+.rep__info--img {
+    background-color: #0078a8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+    
+}
+
+.rep {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.rep__info {
+    background-color: #f0802b;
+    text-align: center;
+}
+
+.rep__committees {
+    background-color: #d7f4ff;
+}
+
+.rep__legislation {
+    background-color: #0078a8;
+}
